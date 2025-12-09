@@ -1,1 +1,1 @@
-# car-loan-Abd-Salam
+This mobile app helps users quickly estimate their monthly vehicle loan payments. By entering the vehicle price, down payment, loan period, and interest rate, the app automatically calculates the loan amount, total interest, total payment, and monthly installment.
